@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutLearning</string>
+    <string name="tab_layout_A_name">A</string>
+    <string name="tab_layout_B_name">B</string>
+    <string name="tab_layout_C_name">C</string>
+    <string name="text_view_A">This is A</string>
+    <string name="text_view_B">This is B</string>
+    <string name="text_view_C">This is C</string>
+</resources>
